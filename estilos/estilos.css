@@ -1,0 +1,16 @@
+.darkMode{
+    color: white;
+    background-color: black;
+}
+
+.form, div, .container, .m-4, button{
+    text-align: center;
+    justify-content: center;
+}
+
+.darkMode .card{
+    color: black;
+}
+.darkMode .modal{
+    color: black;
+}

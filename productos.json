@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "producto": "Termo",
+        "marca": "Luminagro",
+        "precio": 2000,
+        "imagen": "termoLuminagro.jpg"
+    },
+    {
+        "id": 2,
+        "producto": "Mate",
+        "marca":  "Stanley",
+        "precio": 4500,
+        "imagen": "mateStanley.jpg"
+    },
+    {
+        
+        "id": 3,
+        "producto": "Yerba",
+        "marca": "De Autor",
+        "precio": 900,
+        "imagen": "yerbaDeautor.jpg"
+    },
+    {
+        "id": 4,
+        "producto": "Azucar",
+        "marca": "Morena",
+        "precio": 700,
+        "imagen": "azucarMorena.jpg"
+    },
+    {
+        "id": 5,
+        "producto": "Edulcorante",
+        "marca": "Naturales",
+        "precio": 350,
+        "imagen": "edulcoranteNatural.jpg"
+    },
+    {
+        "id": 6,
+        "producto": "Hierbas",
+        "marca": "Yuyo Medicinal",
+        "precio": 450,
+        "imagen": "hiervasParamate.jpg"
+    }
+]
